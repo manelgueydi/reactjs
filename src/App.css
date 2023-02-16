@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.label {
+  text-align: start;
+  color: #680e0e;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+form {
+  text-align:center ;
+  background-color: #fafafa;
+  padding: 10px;
+  width: 280px;
+}
+.label {
+  margin-top: 10px;
+  display: block;
+}
+.label.inline {
+  display: inline;
+  margin-right: 50px;
+}
+.bt {
+  width: 100px;
+  margin-left: 5px;
+  box-shadow: 1px 1px 1px #da413e;
+  cursor: pointer;
+  color: #da413e;
+}
+.f {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: #da413e;
+}
